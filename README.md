@@ -15,7 +15,7 @@ Currently working on:
 * 📡 Telecom Service Management API
 * 🏢 Enterprise Employee Workflow Management System
 
-My goal is to grow into a strong Backend Software Engineer and eventually become a Technical Lead who understands both development and quality engineering.
+My goal is to grow into a strong Backend Software Engineer with a deep understanding of both software development and quality engineering.
 
 ---
 
@@ -82,4 +82,4 @@ Build strong Java backend fundamentals, complete enterprise-grade projects, and 
 ## 📫 Connect
 
 LinkedIn:
-([https://www.linkedin.com/in/ruksanasayyed/])
+[https://www.linkedin.com/in/ruksanasayyed/]
