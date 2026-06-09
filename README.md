@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Ruksana Sayyed 👋
 
-<!--
-**ruksanasayyed/ruksanasayyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java Backend Developer
 
-Here are some ideas to get you started:
+I have experience working on enterprise telecom systems with a background in backend APIs, automation testing, SQL analysis, and production workflow investigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how systems work end-to-end — from development to quality engineering — and building reliable backend applications.
+
+---
+
+## 🚀 What I'm Building
+
+Currently working on:
+
+* 📡 Telecom Service Management API
+* 🏢 Enterprise Employee Workflow Management System
+
+My goal is to grow into a strong Backend Software Engineer and eventually become a Technical Lead who understands both development and quality engineering.
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+* Java
+* Spring Boot
+* REST APIs
+* Spring Data JPA
+
+### Database
+
+* SQL
+* Oracle
+* IBM DB2
+* Cassandra
+* MySQL
+
+### Test Automation
+
+* Selenium
+* TestNG
+* Cucumber
+* API Testing
+
+### Tools
+
+* Git
+* GitHub
+* Jira
+* DBeaver
+* Kibana
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Java
+* Spring Boot
+* Data Structures and Algorithms
+
+---
+
+## 📌 Featured Projects
+
+### Telecom Service Management API
+
+Backend API for telecom customer onboarding, service provisioning, and service lifecycle management.
+
+### Enterprise Employee Workflow Management System
+
+Backend API for employee, project assignment, task workflow, and approval management.
+
+---
+
+## 📈 2026 Goal
+
+Build strong Java backend fundamentals, complete enterprise-grade projects, and return to the industry as a better engineer than before.
+
+---
+
+## 📫 Connect
+
+LinkedIn:
+([your LinkedIn URL](https://www.linkedin.com/in/ruksanasayyed/))
