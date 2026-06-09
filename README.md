@@ -82,4 +82,4 @@ Build strong Java backend fundamentals, complete enterprise-grade projects, and 
 ## 📫 Connect
 
 LinkedIn:
-([My LinkedIn URL](https://www.linkedin.com/in/ruksanasayyed/))
+([https://www.linkedin.com/in/ruksanasayyed/])
