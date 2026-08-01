@@ -1,85 +1,92 @@
 # Hi, I'm Ruksana Sayyed 👋
 
-### Software Engineer | Java Backend Developer
+## Software Engineer | Backend Software Engineer
 
-I have experience working on enterprise telecom systems with a background in backend APIs, automation testing, SQL analysis, and production workflow investigation.
+I have nearly 2 years of experience building enterprise-scale telecom applications at Verizon, with hands-on experience in backend development, REST APIs, automation testing, SQL optimization, and production support.
 
-I enjoy understanding how systems work end-to-end — from development to quality engineering — and building reliable backend applications.
+My work spans Java, Spring Boot, REST APIs, Oracle SQL, API testing, enterprise systems, CI/CD workflows, and troubleshooting distributed production applications.
 
----
-
-## 🚀 What I'm Building
-
-Currently working on:
-
-* 📡 Telecom Service Management API
-* 🏢 Enterprise Employee Workflow Management System
-
-My goal is to grow into a strong Backend Software Engineer with a deep understanding of both software development and quality engineering.
+I enjoy solving real engineering problems, improving system performance, and building reliable backend applications while continuously learning modern software engineering practices.
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Currently Building
+
+- 📡 Telecom Service Management API (Java, Spring Boot, REST APIs)
+- 🏢 Enterprise Employee Workflow Management System
+- 🌱 SAP ABAP on SAP S/4HANA Learning Repository
+- 📚 CS50 SQL (HarvardX)
+
+My goal is to become a strong Backend Software Engineer with expertise in enterprise software development and modern backend architecture.
+
+---
+
+# 💻 Tech Stack
 
 ### Backend
-
-* Java
-* Spring Boot
-* REST APIs
-* Spring Data JPA
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+- Maven
 
 ### Database
+- Oracle SQL
+- MySQL
+- IBM DB2
+- SQL
 
-* SQL
-* Oracle
-* IBM DB2
-* Cassandra
-* MySQL
-
-### Test Automation
-
-* Selenium
-* TestNG
-* Cucumber
-* API Testing
+### Testing & Quality
+- Postman
+- TestNG
+- Cucumber
+- API Testing
 
 ### Tools
-
-* Git
-* GitHub
-* Jira
-* DBeaver
-* Kibana
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Java
-* Spring Boot
-* Data Structures and Algorithms
+- Git
+- GitHub
+- GitLab
+- Jira
+- DBeaver
+- IntelliJ IDEA
+- Kibana
 
 ---
 
-## 📌 Featured Projects
+# 🌱 Currently Learning
+
+- SAP ABAP on SAP S/4HANA
+- Advanced Java & Spring Boot
+- System Design
+- Data Structures & Algorithms
+- Cloud Fundamentals
+
+---
+
+# 📌 Featured Projects
 
 ### Telecom Service Management API
-
-Backend API for telecom customer onboarding, service provisioning, and service lifecycle management.
+Enterprise backend application built using Java, Spring Boot, REST APIs, and SQL to simulate telecom customer onboarding, service provisioning, and service lifecycle management.
 
 ### Enterprise Employee Workflow Management System
+Enterprise-style backend application for employee management, project assignments, workflow automation, approvals, and role-based operations using Java and Spring Boot.
 
-Backend API for employee, project assignment, task workflow, and approval management.
-
----
-
-## 📈 2026 Goal
-
-Build strong Java backend fundamentals, complete enterprise-grade projects, and return to the industry as a better engineer than before.
+### SAP ABAP Learning Repository
+Hands-on ABAP programs, enterprise concepts, reports, internal tables, modularization, and practical SAP S/4HANA development exercises.
 
 ---
 
-## 📫 Connect
+# 🎯 2026 Goals
 
-LinkedIn:
-[https://www.linkedin.com/in/ruksanasayyed/]
+- Build production-ready enterprise backend applications
+- Strengthen Java and Spring Boot expertise
+- Master SAP ABAP on SAP S/4HANA
+- Deepen System Design knowledge
+- Contribute consistently to GitHub with high-quality projects
+
+---
+
+# 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ruksanasayyed/
+- 📧 Email: sayyed.ruksanaa@gmail.com
