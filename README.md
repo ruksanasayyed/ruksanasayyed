@@ -50,11 +50,10 @@ Instead of collecting projects, I like collecting lessons.
 |-----|----------|
 | 💜 | SAP ABAP Learning Journal |
 | 💻 | Java Learning Journal |
-| 🌿 | Spring Boot Journey |
-| 🗃️ | SQL & Database Notes |
-| 🧩 | Data Structures & Algorithms *(Coming Soon)* |
-| ☁️ | Cloud & System Design *(Future Chapter)* |
+| 🗃️ | SQL & Database Learning |
 | 🚀 | Engineering Projects |
+| 🧩 | Data Structures & Algorithms |
+| ☁️ | Cloud & System Design |
 
 ---
 
@@ -77,9 +76,8 @@ Instead of collecting projects, I like collecting lessons.
 ```text
 Currently Exploring
 
-💻 Java
 💜 SAP ABAP
-⚙️ Backend Development
+💻 Java
 🗃️ Databases
 
 ━━━━━━━━━━━━━━━━━━━━━━
