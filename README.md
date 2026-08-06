@@ -1,92 +1,128 @@
-# Hi, I'm Ruksana Sayyed 👋
+<p align="center">
 
-## Software Engineer | Backend Software Engineer
+# 🌸 Ruksana Sayyed
 
-I have nearly 2 years of experience building enterprise-scale telecom applications at Verizon, with hands-on experience in backend development, REST APIs, automation testing, SQL optimization, and production support.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1200&color=6C8CFF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Exploring+SAP+ABAP;Building+Enterprise+Software;Learning+One+Chapter+at+a+Time+🌱" />
 
-My work spans Java, Spring Boot, REST APIs, Oracle SQL, API testing, enterprise systems, CI/CD workflows, and troubleshooting distributed production applications.
-
-I enjoy solving real engineering problems, improving system performance, and building reliable backend applications while continuously learning modern software engineering practices.
+</p>
 
 ---
 
-# 🚀 Currently Building
+<div align="center">
 
-- 📡 Telecom Service Management API (Java, Spring Boot, REST APIs)
-- 🏢 Enterprise Employee Workflow Management System
-- 🌱 SAP ABAP on SAP S/4HANA Learning Repository
-- 📚 CS50 SQL (HarvardX)
+*"Every expert was once curious enough to ask why."* 🌱
 
-My goal is to become a strong Backend Software Engineer with expertise in enterprise software development and modern backend architecture.
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 📖 Welcome
 
-### Backend
-- Java
-- Spring Boot
-- REST APIs
-- Microservices
-- Maven
+Hi, I'm **Ruksana**.
 
-### Database
-- Oracle SQL
-- MySQL
-- IBM DB2
-- SQL
+This GitHub is my little corner of the internet where I document my engineering journey.
 
-### Testing & Quality
-- Postman
-- TestNG
-- Cucumber
-- API Testing
+Every repository is another chapter.
 
-### Tools
-- Git
-- GitHub
-- GitLab
-- Jira
-- DBeaver
-- IntelliJ IDEA
-- Kibana
+Every project leaves me a little more curious than before.
+
+Every commit reminds me that growth happens one small step at a time.
+
+I enjoy slowing down, understanding **why** things work, and building them one concept at a time.
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Building
 
-- SAP ABAP on SAP S/4HANA
-- Advanced Java & Spring Boot
-- System Design
-- Data Structures & Algorithms
-- Cloud Fundamentals
+I'm building this GitHub one chapter at a time.
 
----
+Rather than filling it with random repositories, I'm creating a collection of learning journals and projects that reflect how my understanding evolves over time.
 
-# 📌 Featured Projects
+Some chapters are just beginning.
 
-### Telecom Service Management API
-Enterprise backend application built using Java, Spring Boot, REST APIs, and SQL to simulate telecom customer onboarding, service provisioning, and service lifecycle management.
+Others are still waiting to be written.
 
-### Enterprise Employee Workflow Management System
-Enterprise-style backend application for employee management, project assignments, workflow automation, approvals, and role-based operations using Java and Spring Boot.
-
-### SAP ABAP Learning Repository
-Hands-on ABAP programs, enterprise concepts, reports, internal tables, modularization, and practical SAP S/4HANA development exercises.
+And that's exactly the exciting part.
 
 ---
 
-# 🎯 2026 Goals
+# 📚 My Bookshelf
 
-- Build production-ready enterprise backend applications
-- Strengthen Java and Spring Boot expertise
-- Master SAP ABAP on SAP S/4HANA
-- Deepen System Design knowledge
-- Contribute consistently to GitHub with high-quality projects
+Instead of collecting projects, I like collecting lessons.
+
+| 📖 | Journey |
+|-----|----------|
+| 🌸 | SAP ABAP Learning Journal |
+| ☕ | Java Learning Journal |
+| 🌿 | Spring Boot Journey |
+| 🗄️ | SQL & Database Notes |
+| 🧠 | Data Structures & Algorithms *(Coming Soon)* |
+| ☁️ | Cloud & System Design *(Future Chapter)* |
+| 🚀 | Engineering Projects |
 
 ---
 
-# 🤝 Let's Connect
+# ✨ What You'll Find Here
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ruksanasayyed/
-- 📧 Email: sayyed.ruksanaa@gmail.com
+🌸 Learning journals
+
+💻 Backend projects
+
+🏗️ Enterprise software experiments
+
+📚 Notes that helped me understand difficult concepts
+
+🌱 Progress, not perfection
+
+---
+
+# 🧭 My Learning Compass
+
+```text
+Currently Exploring
+
+☕ Java
+💙 SAP ABAP
+⚙️ Backend Development
+🗄️ Databases
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Curious About
+
+🧠 Data Structures & Algorithms
+🏛️ Software Architecture
+☁️ Cloud Technologies
+```
+
+---
+
+# 📸 A Small Snapshot
+
+Instead of trying to know everything,
+
+I'm trying to understand **one thing really well** before moving to the next.
+
+That mindset has made learning much more enjoyable.
+
+---
+
+<div align="center">
+
+🌸 Thanks for visiting my little corner of GitHub.
+
+I hope you enjoy following the journey as much as I'm enjoying building it.
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱
+
+*"Learning doesn't have a finish line.*
+
+*That's the beautiful part."*
+
+</div>
