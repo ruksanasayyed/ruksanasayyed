@@ -12,7 +12,7 @@
 
 ---
 
-# 📚 Welcome
+## 📚 Welcome
 
 Hi, I'm **Ruksana**.
 
@@ -28,7 +28,7 @@ I enjoy slowing down, understanding **why** things work, and building them one c
 
 ---
 
-# 🐈‍⬛ Currently Building
+## 🐈‍⬛ Currently Building
 
 I'm building this GitHub one chapter at a time.
 
@@ -42,7 +42,7 @@ And that's exactly the exciting part.
 
 ---
 
-# 📚 My Bookshelf
+## 📚 My Bookshelf
 
 Instead of collecting projects, I like collecting lessons.
 
@@ -58,7 +58,7 @@ Instead of collecting projects, I like collecting lessons.
 
 ---
 
-# ✨ What You'll Find Here
+## ✨ What You'll Find Here
 
 💜 Learning journals
 
@@ -72,7 +72,7 @@ Instead of collecting projects, I like collecting lessons.
 
 ---
 
-# 🧭 My Learning Compass
+## 🧭 My Learning Compass
 
 ```text
 Currently Exploring
@@ -93,7 +93,7 @@ Curious About
 
 ---
 
-# 📷 A Small Snapshot
+## 📷 A Small Snapshot
 
 Instead of trying to know everything,
 
