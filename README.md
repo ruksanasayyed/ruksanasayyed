@@ -1,22 +1,18 @@
+<h1 align="center">💜 Ruksana Sayyed</h1>
+
 <p align="center">
-
-# 🌸 Ruksana Sayyed
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1200&color=6C8CFF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Exploring+SAP+ABAP;Building+Enterprise+Software;Learning+One+Chapter+at+a+Time+🌱" />
-
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180">
 </p>
-
----
 
 <div align="center">
 
-*"Every expert was once curious enough to ask why."* 🌱
+*"Every expert was once curious enough to ask why."* 🌿
 
 </div>
 
 ---
 
-# 📖 Welcome
+# 📚 Welcome
 
 Hi, I'm **Ruksana**.
 
@@ -32,7 +28,7 @@ I enjoy slowing down, understanding **why** things work, and building them one c
 
 ---
 
-# 🌱 Currently Building
+# 🐈‍⬛ Currently Building
 
 I'm building this GitHub one chapter at a time.
 
@@ -52,11 +48,11 @@ Instead of collecting projects, I like collecting lessons.
 
 | 📖 | Journey |
 |-----|----------|
-| 🌸 | SAP ABAP Learning Journal |
-| ☕ | Java Learning Journal |
+| 💜 | SAP ABAP Learning Journal |
+| 💻 | Java Learning Journal |
 | 🌿 | Spring Boot Journey |
-| 🗄️ | SQL & Database Notes |
-| 🧠 | Data Structures & Algorithms *(Coming Soon)* |
+| 🗃️ | SQL & Database Notes |
+| 🧩 | Data Structures & Algorithms *(Coming Soon)* |
 | ☁️ | Cloud & System Design *(Future Chapter)* |
 | 🚀 | Engineering Projects |
 
@@ -64,7 +60,7 @@ Instead of collecting projects, I like collecting lessons.
 
 # ✨ What You'll Find Here
 
-🌸 Learning journals
+💜 Learning journals
 
 💻 Backend projects
 
@@ -72,7 +68,7 @@ Instead of collecting projects, I like collecting lessons.
 
 📚 Notes that helped me understand difficult concepts
 
-🌱 Progress, not perfection
+🌿 Progress, not perfection
 
 ---
 
@@ -81,23 +77,23 @@ Instead of collecting projects, I like collecting lessons.
 ```text
 Currently Exploring
 
-☕ Java
-💙 SAP ABAP
+💻 Java
+💜 SAP ABAP
 ⚙️ Backend Development
-🗄️ Databases
+🗃️ Databases
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 Curious About
 
-🧠 Data Structures & Algorithms
+🧩 Data Structures & Algorithms
 🏛️ Software Architecture
 ☁️ Cloud Technologies
 ```
 
 ---
 
-# 📸 A Small Snapshot
+# 📷 A Small Snapshot
 
 Instead of trying to know everything,
 
@@ -109,7 +105,7 @@ That mindset has made learning much more enjoyable.
 
 <div align="center">
 
-🌸 Thanks for visiting my little corner of GitHub.
+🐾 Thanks for visiting my little corner of GitHub.
 
 I hope you enjoy following the journey as much as I'm enjoying building it.
 
@@ -119,10 +115,10 @@ I hope you enjoy following the journey as much as I'm enjoying building it.
 
 <div align="center">
 
-### 🌱
+### 📚
 
 *"Learning doesn't have a finish line.*
 
-*That's the beautiful part."*
+*There's always another chapter waiting on the shelf."*
 
 </div>
